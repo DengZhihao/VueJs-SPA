@@ -10,12 +10,20 @@
 
 <script>
 import Hello from './components/Hello'
-
+import store from './vuex/store'
 export default {
   components: {
     Hello
+  },
+  vuex:{
+    actions:{
+      setDetail,
+      getStore
+    }
   }
 }
+
+
 </script>
 
 <style>

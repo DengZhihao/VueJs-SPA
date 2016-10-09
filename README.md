@@ -1,6 +1,6 @@
 # vue-spa
 
-> A Vue.js project
+> A SPA project based on Vue.js.
 
 ## Build Setup
 
